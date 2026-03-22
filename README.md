@@ -99,7 +99,7 @@ Se implementaron validaciones de esquema para garantizar la estructura de las re
 1. Clonar el repositorio:
 
 ```
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/KhrisVargas/reto_backend_pacifico.git
 ```
 
 2. Abrir el proyecto en IntelliJ IDEA
@@ -155,7 +155,7 @@ Se implementó el generador de datos dinámicos (`dataGenerator.js` y `dataGener
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Cristian Miguel Paucar Vargas  
 QA Automation Engineer
